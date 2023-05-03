@@ -76,7 +76,6 @@ jobs:
         host: 158.160.45.175
         username: lilia
         key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCtysnkgjUGMlUjF3CqhjdD2Jv6kcZ4zeBYIbFLtlbLylIk5qQrIWkFGneizk4gqC9gidqeUTcfwiMHjDiTBdOY7Re07xrPEpSfu+IpH+VF4YiUwoVY8dmViYUELO6D2w6OhOfujmUjU5lNOSqTqYR1Ur6Bf/TuAX/v6rw633NcGyeBLjEUv5a2EbgavWNw/hrb320jyLlVDLJOXMOPceqGIe31AVQzneQ+Q59+bDgO/lO4I5ItXaPk4Ilc176ebhad7NaOcEsPTc4/TNHbESnaL8kPypO9pR2RP1iSwoYYN3g7z4ZCIogatIR3V4PE3oXTPMYV1m0WH6ToYmJrS00Y29xEjuuTAus2acpmVNQ3+EbY+xgCv3z1JBqOXilMlyorbd3zCjgcgQSN4qhiD7bcngGhcSzBliDeoY891MSudgTSkw8i2pd+6ktLYqU8QNHuimmSY46FHt1oB2wq0JuHeuHDWdh4rgSdeO2iHg/Ngh2LQ4vTCZ8GnrpwffaDeCE= Lilia@DESKTOP-Q8J5QMM
-        passphrase: Kzvdl266364
         script: |
           # Выполняет pull образа с DockerHub
           sudo docker pull umlilia/infra_actions
